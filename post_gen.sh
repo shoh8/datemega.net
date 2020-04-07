@@ -64,12 +64,11 @@ fi
 cat << _EOT_ >${OUTPUTFILE}
 Title: ${TITLE}
 Date: ${DATE_STR}
-Modified:
 Category: ${CATEGORY}
 Tags: ${TAGS}
 Slug: ${SLUG}
 Authors: ${AUTHOR}
-Status: hidden
+Status: draft 
 Summary: ${SUMMARY}
 
 # ${TITLE}
