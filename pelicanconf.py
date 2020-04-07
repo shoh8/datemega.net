@@ -33,6 +33,9 @@ DEFAULT_PAGINATION = 5
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+USE_FOLDER_AS_CATEGORY = True
+DEFAULT_CATEGORY = 'misc'
+DISPLAY_PAGES_ON_MENU = True
 
 STATIC_PATHS = { 'extra' , 'images', 'static'}
 EXTRA_PATH_METADATA = {

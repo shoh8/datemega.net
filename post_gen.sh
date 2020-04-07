@@ -9,17 +9,17 @@ echo -n "Today Posts y/n:"
 read Q_TODAY
 if [ "${Q_TODAY}" == "y" ];then
   DATE_STR=$(date "+%Y-%m-%d %H:%M")
-  FILESTR=$(date "+%Y%m%d_%H%M")
+  FILESTR=$(date "+%Y-%m-%d_%H%M")
 else
-  echo -n "Post Date:"
+  echo -n "Post Date(yyyy-mm-dd [HH:MM]):"
   read DATE_STR
-  FILESTR=${DATE_STR}
+  FILESTR=$(echo ${DATE_STR}| perl -pe 's/[ \/\t]+/_/g'| perl -pe 's/://g' )
 fi
 
 echo -n "Category:"
 read CATEGORY
 
-echo -n "Tags:"
+echo -n "Tags(comma separated):"
 read TAGS
 
 echo -n "Slug:"
@@ -36,7 +36,10 @@ fi
 echo -n "Summary:"
 read SUMMARY
 
-OUTPUTFILE=${OUTPUT}/${FILESTR}.md
+if [ ! -d ${OUTPUT}/${CATEGORY} ];then
+   mkdir ${OUTPUT}/${CATEGORY}
+fi
+OUTPUTFILE=${OUTPUT}/${CATEGORY}/${FILESTR}.md
 
 echo "##  reminder  ##"
 cat << _EOT_
@@ -61,10 +64,12 @@ fi
 cat << _EOT_ >${OUTPUTFILE}
 Title: ${TITLE}
 Date: ${DATE_STR}
+Modified:
 Category: ${CATEGORY}
 Tags: ${TAGS}
 Slug: ${SLUG}
 Authors: ${AUTHOR}
+Status: hidden
 Summary: ${SUMMARY}
 
 # ${TITLE}
