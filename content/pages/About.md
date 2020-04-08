@@ -11,12 +11,12 @@ Summary: This site is...
 
 ## WHO is shoh8.
 
-- Name: shoh8 aka ιょぅ
+- Name: shoh8 a.k.a. ιょぅ
 - Country: Japan
 - Area: Around Yokohama
 - Age: born in prior century.
 - Job: N/A
-- Religion: Agnoustic
+- Religion: Agnostic
 
 ## What shoh8 wanted to do on this site.
 
@@ -24,4 +24,4 @@ Summary: This site is...
 ストレス発散のため
 
 - recording for myself
-- clearing for my frastration
+- clearing for my frastrations
