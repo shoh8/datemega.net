@@ -26,7 +26,8 @@ LINKS = (('BB is watching you', '#'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/shoh8'),
-          ('github', 'https://github.com/shoh8'),)
+          ('github', 'https://github.com/shoh8'),
+          ('rss', '/feeds/all.atom.xml'),)
 
 DEFAULT_PAGINATION = 5
 
