@@ -10,6 +10,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 GITHUB_PAGES_BRANCH=gh-pages
 
+POSTGEN_SHELL=post_gen.sh
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -35,6 +36,7 @@ help:
 	@echo '   make ssh_upload                     upload the web site via SSH        '
 	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
 	@echo '   make github                         upload the web site via gh-pages   '
+	@echo '   make post                           generate post by shellscript       '
 	@echo '                                                                          '
 	@echo '   make d        alias to devserve                                        '
 	@echo '   make p        alias to publish                                         '
@@ -86,5 +88,7 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+post: 
+	sh $(POSTGEN_SHELL)
 
-.PHONY: html help clean regenerate serve serve-global devserver publish github d s p g
+.PHONY: html help clean regenerate serve serve-global devserver publish github d s p g post
