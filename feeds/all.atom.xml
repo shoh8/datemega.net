@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-04-23T13:58:00+09:00</updated><entry><title>accessible</title><link href="https://blog.datemega.net/accessible.html" rel="alternate"></link><published>2020-04-23T13:58:00+09:00</published><updated>2020-04-23T13:58:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-23:/accessible.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;accessible&lt;/h1&gt;
-&lt;h2&gt;今日のEat&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-04-23T13:58:00+09:00</updated><entry><title>accessible</title><link href="https://blog.datemega.net/accessible.html" rel="alternate"></link><published>2020-04-23T13:58:00+09:00</published><updated>2020-04-23T13:58:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-23:/accessible.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;今日のEat&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;おにぎり&lt;/li&gt;
 &lt;li&gt;ウィダー的なゼリー&lt;/li&gt;
@@ -17,9 +16,11 @@
 さらなる改良とともに見直しが必要となった。  &lt;/p&gt;
 &lt;h2&gt;つながった(追記)&lt;/h2&gt;
 &lt;p&gt;VPNの仕組みについて理解が劣っていた。&lt;br&gt;
-ざっくりとした理解は、L2TP on IP-secの場合
-- IP-sec は鍵交換も含む暗号化
-- L2TP は、IP-secの経路上でPPP接続する&lt;/p&gt;
+ざっくりとした理解は、L2TP on IP-secの場合&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IP-sec は鍵交換も含む暗号化&lt;/li&gt;
+&lt;li&gt;L2TP は、IP-secの経路上でPPP接続する&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;また、VPNサーバでローカルブリッジを組んでいた場合、ローカルブリッジ用に物理デバイスを割り当てずに&lt;br&gt;
 一つの物理デバイスで、ローカルブリッジと普通の通信を担う場合、ローカルブリッジで接続したデバイスから&lt;br&gt;
 VPNサーバ本体への通信が上手く通らない。&lt;br&gt;
@@ -27,8 +28,10 @@ VPNサーバ本体への通信が上手く通らない。&lt;br&gt;
 そのセグメントに対して通信できない。&lt;br&gt;
 これで管理画面に行かなくてもVPNでつないだサーバからWoLを飛ばせばよいということが分かった。&lt;/p&gt;
 &lt;h3&gt;参考&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://ja.softether.org/4-docs/1-manual/B/11.2"&gt;(SoftEtherVPN)11.2 知っておくと有益なノウハウ&lt;/a&gt;
-&lt;a href="https://qiita.com/owlbeck/items/adbf967d5439dca7484f"&gt;Amazon LinuxでPPP接続時にルーティングを追加する&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://ja.softether.org/4-docs/1-manual/B/11.2"&gt;(SoftEtherVPN)11.2 知っておくと有益なノウハウ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://qiita.com/owlbeck/items/adbf967d5439dca7484f"&gt;Amazon LinuxでPPP接続時にルーティングを追加する&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;備忘録&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;マクド馬鹿食いは、翌日以降に禍根を残すことを戒める。&lt;/li&gt;
