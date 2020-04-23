@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-04-20T11:53:00+09:00</updated><entry><title>Only on</title><link href="https://blog.datemega.net/only-on.html" rel="alternate"></link><published>2020-04-20T11:53:00+09:00</published><updated>2020-04-20T11:53:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-20:/only-on.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-04-23T13:58:00+09:00</updated><entry><title>accessible</title><link href="https://blog.datemega.net/accessible.html" rel="alternate"></link><published>2020-04-23T13:58:00+09:00</published><updated>2020-04-23T13:58:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-23:/accessible.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;accessible&lt;/h1&gt;
+&lt;h2&gt;今日のEat&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;おにぎり&lt;/li&gt;
+&lt;li&gt;ウィダー的なゼリー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つながらに&lt;/h2&gt;
+&lt;p&gt;ある場所からある場所へつながらない。&lt;br&gt;
+一つは、自宅のネットワーク。 VPN接続した後、リモートデスクトップする予定が、&lt;br&gt;
+スリープした後起こす手立てが上手く機能してない。&lt;br&gt;
+一応3つくらい手は用意してあった。
+- WakeOnLAN を設定した。
+- アレクサに頼む
+- ピタゴラスイッチの要領で、スリープ解除するように仕組む&lt;/p&gt;
+&lt;p&gt;どれも有効に機能したことを確かめた後、さっき動かしてみたけどうまく動作しない。結果、私は繋がらない。&lt;br&gt;
+さらなる改良とともに見直しが必要となった。  &lt;/p&gt;
+&lt;h2&gt;備忘録&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;マクド馬鹿食いは、翌日以降に禍根を残すことを戒める。&lt;/li&gt;
+&lt;li&gt;マックと、マクドナルドを短絡的に連想することの危険性。  &lt;/li&gt;
+&lt;li&gt;プリン味のシェイクは、もう何を飲んでるのかわからなくてバグる。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>Only on</title><link href="https://blog.datemega.net/only-on.html" rel="alternate"></link><published>2020-04-20T11:53:00+09:00</published><updated>2020-04-20T11:53:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-20:/only-on.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
 &lt;p&gt;オン飲みやった。onのみ-&amp;gt;only on&lt;br&gt;
 出入り自由で、飲み物も自由なので結構気楽でよさそう。
 寝落ちが怖いけど、なんか悪用しなければある程度適当に開催できて暇つぶしになった&lt;br&gt;
