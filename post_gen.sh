@@ -71,7 +71,7 @@ Authors: ${AUTHOR}
 Status: draft 
 Summary: ${SUMMARY}
 
-# ${TITLE}
+## ${TITLE}
 
 ${SUMMARY}
 _EOT_
