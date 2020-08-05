@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net - blog</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/blog.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-07-20T12:54:00+09:00</updated><entry><title>Go To 2nd wave</title><link href="https://blog.datemega.net/go-to-2nd-wave.html" rel="alternate"></link><published>2020-07-20T12:54:00+09:00</published><updated>2020-07-20T12:54:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-07-20:/go-to-2nd-wave.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;Go To 2nd wave&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net - blog</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/blog.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-08-05T10:48:00+09:00</updated><entry><title>At sui</title><link href="https://blog.datemega.net/at-sui.html" rel="alternate"></link><published>2020-08-05T10:48:00+09:00</published><updated>2020-08-05T10:48:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-08-05:/at-sui.html</id><summary type="html">&lt;p&gt;Atsui&lt;/p&gt;</summary><content type="html">&lt;h2&gt;At sui&lt;/h2&gt;
+&lt;p&gt;だいぶ暑くなってきた。梅雨が明けた。&lt;br&gt;
+川崎が強いのでJ1観戦が楽しい。&lt;br&gt;
+シーズンチケット優遇なので、売り出し直後にサイトに飛び込まないとまだチケットが取れない。&lt;br&gt;
+BSかDAZNを…QOL向上を&lt;br&gt;
+夏休みという、現状だとなにかよくわからない制度をどう使おうか悩んでいる。&lt;br&gt;
+結局部屋掃除とか、なんかの見直しとかに使おうと思ってる。&lt;br&gt;
+Mリーグ2020も、ちょぼちょぼと情報見てる。&lt;/p&gt;
+&lt;h2&gt;ToDo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SoftEtherVPN のライセンスが企業用の試用版だったので修正した(Done)&lt;/li&gt;
+&lt;li&gt;AWSちゃんとやる&lt;/li&gt;
+&lt;li&gt;マイクとかミキサー類が無事届きますように&lt;/li&gt;
+&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>Go To 2nd wave</title><link href="https://blog.datemega.net/go-to-2nd-wave.html" rel="alternate"></link><published>2020-07-20T12:54:00+09:00</published><updated>2020-07-20T12:54:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-07-20:/go-to-2nd-wave.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;Go To 2nd wave&lt;/h2&gt;
 &lt;p&gt;夏が来ている感じがする。&lt;br&gt;
 梅雨の長雨ゲリラ雨の後、30分で洗濯物が乾くようなカンカン照り、そしてじめっとした湿度&lt;br&gt;
 ついにマスクをしたままの夏がやってきてしまった。&lt;/p&gt;
