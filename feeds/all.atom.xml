@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-10-22T21:42:00+09:00</updated><entry><title>samui</title><link href="https://blog.datemega.net/samui.html" rel="alternate"></link><published>2020-10-22T21:42:00+09:00</published><updated>2020-10-22T21:42:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-22:/samui.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;samui&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2020-10-22T23:10:00+09:00</updated><entry><title>samui</title><link href="https://blog.datemega.net/samui.html" rel="alternate"></link><published>2020-10-22T21:42:00+09:00</published><updated>2020-10-22T23:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-22:/samui.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;samui&lt;/h2&gt;
 &lt;p&gt;めっきり急に寒くなってきた。&lt;br&gt;
 星系出雲の兵站読み始めた。やっと世界に入りこみ始めた。SFは読み始めから没頭までの助走期間が長い&lt;br&gt;
 Mリーグ、ライトユーザなので、その日の放送が終わったあたりから2倍速で流し見してる&lt;br&gt;
@@ -11,7 +11,14 @@ Mリーグ、ライトユーザなので、その日の放送が終わったあ�
 &lt;li&gt;不要な機材を売るために整理してたら、ブロードバンドルータが出てきたのでdd-wrt入れる&lt;/li&gt;
 &lt;li&gt;主食は豆腐ともやしと鶏肉を少々、常備菜を腐らせないで維持する。夏が終わった&lt;/li&gt;
 &lt;li&gt;github actionsがおもしろい、ちょっと月額利用も考え始めた&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>MJB</title><link href="https://blog.datemega.net/mjb.html" rel="alternate"></link><published>2020-10-11T12:06:00+09:00</published><updated>2020-10-11T12:06:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-11:/mjb.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;MJB&lt;/h2&gt;
+&lt;/ul&gt;
+&lt;h2&gt;追記&lt;/h2&gt;
+&lt;p&gt;大体 dlouw9でブログ書いてるんだけど、Preview Running Applicationの挙動がよくわからない。&lt;br&gt;
+cloud9の環境変数でPORT8080が設定されている。 pelicanでプレビューしようとすると 80を開こうとする。&lt;br&gt;
+もう一度 Preview Running Application を押すと8080を開こうとする&lt;br&gt;
+pelican serveを落としても 80で開こうとしているPreview はリロードできるし、&lt;br&gt;
+どうやらインターネット越しにブログ本体にアクセスしているように見える&lt;br&gt;
+何かちゃんと調査がいるのかもしれない。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>MJB</title><link href="https://blog.datemega.net/mjb.html" rel="alternate"></link><published>2020-10-11T12:06:00+09:00</published><updated>2020-10-11T12:06:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-11:/mjb.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;MJB&lt;/h2&gt;
 &lt;p&gt;Mリーグが開幕した。週4で夜の予定が増えたことを喜ぶぶべきかどうか。&lt;br&gt;
 最強戦にナイスガイが出場してて面白驚いた&lt;br&gt;
 Jリーグも佳境というか後半戦になってきた。川崎なかなか強くてうれしい。&lt;br&gt;
