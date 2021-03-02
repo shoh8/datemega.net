@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net - blog</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/blog.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2021-02-07T03:47:00+09:00</updated><entry><title>transferring from old</title><link href="https://blog.datemega.net/transferring-from-old.html" rel="alternate"></link><published>2021-02-07T03:47:00+09:00</published><updated>2021-02-07T03:47:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-02-07:/transferring-from-old.html</id><summary type="html">&lt;p&gt;乗り換え&lt;/p&gt;</summary><content type="html">&lt;h2&gt;transferring from old&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net - blog</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/blog.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2021-03-02T20:57:00+09:00</updated><entry><title>march is the 15th month of 2020</title><link href="https://blog.datemega.net/march-is-the-15th-month-of-2020.html" rel="alternate"></link><published>2021-03-02T20:57:00+09:00</published><updated>2021-03-02T20:57:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-03-02:/march-is-the-15th-month-of-2020.html</id><summary type="html">&lt;p&gt;ピリピリして疲れながらラジオ体操&lt;/p&gt;</summary><content type="html">&lt;h2&gt;march is the 15th month of 2020&lt;/h2&gt;
+&lt;p&gt;ピリピリして疲れながらラジオ体操&lt;/p&gt;
+&lt;h2&gt;毎日&lt;/h2&gt;
+&lt;p&gt;最近は、家で仕事したり仕事の振りしたりしている。&lt;br&gt;
+さあ緊急事態宣言が終わるとどういう生活になるのか。&lt;br&gt;
+びくびくしながら、集中力欠いてピリピリしながら、&lt;br&gt;
+朝、Youtubeでラジオ体操の動画を流しながら体を起こしながら、&lt;br&gt;
+それでドタバタ部屋の誇りを巻き上げながら暮らしている。&lt;/p&gt;
+&lt;h2&gt;なんとなくTODO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mリーグ2020はそろそろ終盤&lt;/li&gt;
+&lt;li&gt;種まきはまあそこそこ&lt;/li&gt;
+&lt;li&gt;Jリーグは今季が始まりました。チケット争奪の中見に行けるだろうか&lt;/li&gt;
+&lt;li&gt;ボートは今年入ってだいぶやられてしまった&lt;/li&gt;
+&lt;li&gt;Jazzの道は長く険しい。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>transferring from old</title><link href="https://blog.datemega.net/transferring-from-old.html" rel="alternate"></link><published>2021-02-07T03:47:00+09:00</published><updated>2021-02-07T03:47:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-02-07:/transferring-from-old.html</id><summary type="html">&lt;p&gt;乗り換え&lt;/p&gt;</summary><content type="html">&lt;h2&gt;transferring from old&lt;/h2&gt;
 &lt;p&gt;ドメインの期限がキレそうという通知が来たり、それを延長したりしました。&lt;br&gt;
 あと、使っていたVPS（というかAWS)の無料期間が過ぎたので乗せ換えした。&lt;br&gt;
 うちで踊ろうを歌いながら寝たり寝なかったり。&lt;br&gt;
