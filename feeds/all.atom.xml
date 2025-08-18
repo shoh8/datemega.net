@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"></link><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"></link><id>https://blog.datemega.net/</id><updated>2025-04-30T16:10:00+09:00</updated><entry><title>April_30</title><link href="https://blog.datemega.net/april_30.html" rel="alternate"></link><published>2025-04-30T16:10:00+09:00</published><updated>2025-04-30T16:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2025-04-30:/april_30.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;April_30&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog.datemega.net</title><link href="https://blog.datemega.net/" rel="alternate"/><link href="https://blog.datemega.net/feeds/all.atom.xml" rel="self"/><id>https://blog.datemega.net/</id><updated>2025-08-18T14:07:00+09:00</updated><entry><title>bought a machine</title><link href="https://blog.datemega.net/bought-a-machine.html" rel="alternate"/><published>2025-08-18T14:07:00+09:00</published><updated>2025-08-18T14:07:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2025-08-18:/bought-a-machine.html</id><summary type="html">&lt;p&gt;買いました&lt;/p&gt;</summary><content type="html">&lt;h2&gt;bought a machine&lt;/h2&gt;
+&lt;p&gt;買いました&lt;/p&gt;
+&lt;p&gt;環境構築をちまちまと。それから開発環境と持ち運び環境と、バックアップ体制を整備。&lt;br&gt;
+USB-Cがやっと暮らしの中で半分くらい入ってきた。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>April_30</title><link href="https://blog.datemega.net/april_30.html" rel="alternate"/><published>2025-04-30T16:10:00+09:00</published><updated>2025-04-30T16:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2025-04-30:/april_30.html</id><summary type="html"/><content type="html">&lt;h2&gt;April_30&lt;/h2&gt;
 &lt;p&gt;あけましておめでとう&lt;br&gt;
 今年はすでに始まっています。  &lt;/p&gt;
 &lt;p&gt;例年のサーバ対応だけやっておこう。&lt;/p&gt;
@@ -8,7 +11,7 @@
 &lt;li&gt;ChatGPTを活用する。(blogにも)&lt;/li&gt;
 &lt;li&gt;お金をなるように祈る&lt;/li&gt;
 &lt;li&gt;もうすこし何とかしてみる&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>2024_12_31</title><link href="https://blog.datemega.net/2024_12_31.html" rel="alternate"></link><published>2024-12-31T22:22:00+09:00</published><updated>2024-12-31T22:22:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2024-12-31:/2024_12_31.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;2024_12_31&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>2024_12_31</title><link href="https://blog.datemega.net/2024_12_31.html" rel="alternate"/><published>2024-12-31T22:22:00+09:00</published><updated>2024-12-31T22:22:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2024-12-31:/2024_12_31.html</id><summary type="html"/><content type="html">&lt;h2&gt;2024_12_31&lt;/h2&gt;
 &lt;p&gt;今年が終わり&lt;br&gt;
 色々あったようで、疲れた一年。&lt;br&gt;
 健康のありがたみがわかる。
@@ -18,7 +21,7 @@
 &lt;li&gt;おかね&lt;/li&gt;
 &lt;li&gt;からだ&lt;/li&gt;
 &lt;li&gt;きもち&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>May san no hitsuji</title><link href="https://blog.datemega.net/may-san-no-hitsuji.html" rel="alternate"></link><published>2024-05-03T12:31:00+09:00</published><updated>2024-05-03T12:31:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2024-05-03:/may-san-no-hitsuji.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;May san no hitsuji&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>May san no hitsuji</title><link href="https://blog.datemega.net/may-san-no-hitsuji.html" rel="alternate"/><published>2024-05-03T12:31:00+09:00</published><updated>2024-05-03T12:31:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2024-05-03:/may-san-no-hitsuji.html</id><summary type="html"/><content type="html">&lt;h2&gt;May san no hitsuji&lt;/h2&gt;
 &lt;p&gt;五月が始まっていた。&lt;br&gt;
 なんとなく忙しいまま、サーバを放置してたら2か月間無料期間を超えていたから作り直した。&lt;br&gt;
 案外覚えてたから1時間くらいで移行が終わった。もっと自動化したい  &lt;/p&gt;
@@ -31,7 +34,7 @@
 &lt;li&gt;首とか手のしびれとかそういうのと戦う時期もやってきた&lt;/li&gt;
 &lt;li&gt;しっかり眠れているけど痩せたい&lt;/li&gt;
 &lt;li&gt;サッカーはなんとなく見ている。けれどどうにものめりこめてない。&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>a new year 2024</title><link href="https://blog.datemega.net/a-new-year-2024.html" rel="alternate"></link><published>2024-01-11T09:33:00+09:00</published><updated>2024-01-11T09:33:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2024-01-11:/a-new-year-2024.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;a new year 2024&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>a new year 2024</title><link href="https://blog.datemega.net/a-new-year-2024.html" rel="alternate"/><published>2024-01-11T09:33:00+09:00</published><updated>2024-01-11T09:33:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2024-01-11:/a-new-year-2024.html</id><summary type="html"/><content type="html">&lt;h2&gt;a new year 2024&lt;/h2&gt;
 &lt;p&gt;あけましておめでとう。本年もゆるりとやっていきます。&lt;br&gt;
 考え事は山積。サッカーをうまく使いながら切り替えていく。&lt;br&gt;
 やりたくないことをしっかりと伝える。  &lt;/p&gt;
@@ -42,7 +45,7 @@
 &lt;li&gt;お金のことを考える&lt;/li&gt;
 &lt;li&gt;仕事をいい方向に（切り替えるか、続けるか、別のこと探すかも含めて）向けるため考える&lt;/li&gt;
 &lt;li&gt;このドメインの活用&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>over 40</title><link href="https://blog.datemega.net/over-40.html" rel="alternate"></link><published>2023-07-02T19:32:00+09:00</published><updated>2023-07-02T19:32:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2023-07-02:/over-40.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;over 40&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>over 40</title><link href="https://blog.datemega.net/over-40.html" rel="alternate"/><published>2023-07-02T19:32:00+09:00</published><updated>2023-07-02T19:32:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2023-07-02:/over-40.html</id><summary type="html"/><content type="html">&lt;h2&gt;over 40&lt;/h2&gt;
 &lt;p&gt;少し疲れてる。知識欲だけ高まるけど、依頼とかコントロールがへた。&lt;br&gt;
 あとは、どう進めていくかということと、どう諦めるかという事を早めに判断する。&lt;br&gt;
 ひとつある嫌なことを言い出せずに切り出せずにいる。&lt;br&gt;
@@ -55,7 +58,7 @@
 &lt;li&gt;今更Javaのこと&lt;/li&gt;
 &lt;li&gt;サッカーのこと&lt;/li&gt;
 &lt;li&gt;先の事でトラブルにならないように&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>new and unknown</title><link href="https://blog.datemega.net/new-and-unknown.html" rel="alternate"></link><published>2023-01-11T20:39:00+09:00</published><updated>2023-01-11T20:39:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2023-01-11:/new-and-unknown.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;new and unknown&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>new and unknown</title><link href="https://blog.datemega.net/new-and-unknown.html" rel="alternate"/><published>2023-01-11T20:39:00+09:00</published><updated>2023-01-11T20:39:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2023-01-11:/new-and-unknown.html</id><summary type="html"/><content type="html">&lt;h2&gt;new and unknown&lt;/h2&gt;
 &lt;p&gt;あけました。振り回されている。&lt;br&gt;
 なんとか気楽に過ごしたい。でも懸念事項は結構ある。&lt;br&gt;
 少しお金が欲しいとか思ってる。&lt;/p&gt;
@@ -66,7 +69,7 @@
 &lt;li&gt;ワールドカップ燃え尽き症候群&lt;/li&gt;
 &lt;li&gt;冬休みの宿題延長戦でさわってる。何かに使える形にして置いておきたい&lt;/li&gt;
 &lt;li&gt;github もこんな丸見えじゃなくてちょっと作り直したい欲&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>SHIWAS-2022</title><link href="https://blog.datemega.net/shiwas-2022.html" rel="alternate"></link><published>2022-12-21T20:20:00+09:00</published><updated>2022-12-21T20:20:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-12-21:/shiwas-2022.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;SHIWAS-2022&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>SHIWAS-2022</title><link href="https://blog.datemega.net/shiwas-2022.html" rel="alternate"/><published>2022-12-21T20:20:00+09:00</published><updated>2022-12-21T20:20:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-12-21:/shiwas-2022.html</id><summary type="html"/><content type="html">&lt;h2&gt;SHIWAS-2022&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;ワールドカップ終わった。めちゃくちゃ面白かった。Abemaありがとう&lt;/li&gt;
 &lt;li&gt;代謝は全然上がらない。体重はいくらでも上がる。ご飯美味しい&lt;/li&gt;
@@ -81,7 +84,7 @@
 &lt;li&gt;twitter、Mastodonまわりは、何かありそうな気がしてる&lt;/li&gt;
 &lt;li&gt;MidJourney、Stable diffusion、AIの生成メディア面白そう。触れるようにはしておきたい&lt;/li&gt;
 &lt;li&gt;(ChatGPTは冬休み宿題)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>1024 is the number</title><link href="https://blog.datemega.net/1024-is-the-number.html" rel="alternate"></link><published>2022-10-24T09:21:00+09:00</published><updated>2022-10-24T09:21:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-10-24:/1024-is-the-number.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;1024 is the number&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>1024 is the number</title><link href="https://blog.datemega.net/1024-is-the-number.html" rel="alternate"/><published>2022-10-24T09:21:00+09:00</published><updated>2022-10-24T09:21:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-10-24:/1024-is-the-number.html</id><summary type="html"/><content type="html">&lt;h2&gt;1024 is the number&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;10月が過ぎ行く（いつもなんか書くときは過ぎ行く）&lt;/li&gt;
 &lt;li&gt;Jリーグの今シーズンがそろそろ終わる。まだワクワクしてる。&lt;/li&gt;
@@ -95,7 +98,7 @@
 &lt;li&gt;お金、時間、仕事、この先についてのバランス&lt;/li&gt;
 &lt;li&gt;楽しいことより長期的に効果があることに投資するべき&lt;/li&gt;
 &lt;li&gt;メディア作りと、実際の人間を紐づけるのはまだまだ複雑。リーチどこ&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>hachi-gatsu</title><link href="https://blog.datemega.net/hachi-gatsu.html" rel="alternate"></link><published>2022-08-25T07:24:00+09:00</published><updated>2022-08-25T07:24:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-08-25:/hachi-gatsu.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;hachi-gatsu&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>hachi-gatsu</title><link href="https://blog.datemega.net/hachi-gatsu.html" rel="alternate"/><published>2022-08-25T07:24:00+09:00</published><updated>2022-08-25T07:24:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-08-25:/hachi-gatsu.html</id><summary type="html"/><content type="html">&lt;h2&gt;hachi-gatsu&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;コロナと戦った夏。外来に電話がかからない中で電話かけまくらないとどうにも進まないという不安すごかった。&lt;/li&gt;
 &lt;li&gt;サッカー熱がちょっと収まった。でもプレミア見れるようになって盛り上がりに対応できるようにした。&lt;/li&gt;
@@ -107,7 +110,7 @@
 &lt;li&gt;楽しいことは増えてない。でも元から楽しいことは少し深く楽しいかもと思えた&lt;/li&gt;
 &lt;li&gt;種まき自体は全然進んでない&lt;/li&gt;
 &lt;li&gt;AWS,Azure,GCPとか情報収集を再開する。計画したうえで大規模に使い捨てする&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>May be the one</title><link href="https://blog.datemega.net/may-be-the-one.html" rel="alternate"></link><published>2022-05-27T07:04:00+09:00</published><updated>2022-05-27T07:04:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-05-27:/may-be-the-one.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;May be the one&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>May be the one</title><link href="https://blog.datemega.net/may-be-the-one.html" rel="alternate"/><published>2022-05-27T07:04:00+09:00</published><updated>2022-05-27T07:04:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-05-27:/may-be-the-one.html</id><summary type="html"/><content type="html">&lt;h2&gt;May be the one&lt;/h2&gt;
 &lt;p&gt;年度の切り替わりは、諸問題あったけどなんとなく終わった。&lt;br&gt;
 4月5月は過ぎ行く。何にお金を使おうか分からなくなってきた。  &lt;/p&gt;
 &lt;h2&gt;TODO&lt;/h2&gt;
@@ -116,11 +119,11 @@
 &lt;li&gt;AWSやコンテンツ周りを見直しする&lt;/li&gt;
 &lt;li&gt;サッカーは少し滅入る状況。混雑が嫌で現地応援は控えめ&lt;/li&gt;
 &lt;li&gt;ギターは録音して絶望してを繰り返してる&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>periodic transferring</title><link href="https://blog.datemega.net/periodic-transferring.html" rel="alternate"></link><published>2022-02-25T13:11:00+09:00</published><updated>2022-02-25T13:11:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-02-25:/periodic-transferring.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;periodic transferring&lt;/h2&gt;
-&lt;p&gt;1年間でなんとなく乗り換える場所の定期イベントが終わった&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>new year 2022</title><link href="https://blog.datemega.net/new-year-2022.html" rel="alternate"></link><published>2022-01-22T20:10:00+09:00</published><updated>2022-01-22T20:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-01-22:/new-year-2022.html</id><content type="html">&lt;h2&gt;new year 2022&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>periodic transferring</title><link href="https://blog.datemega.net/periodic-transferring.html" rel="alternate"/><published>2022-02-25T13:11:00+09:00</published><updated>2022-02-25T13:11:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-02-25:/periodic-transferring.html</id><summary type="html"/><content type="html">&lt;h2&gt;periodic transferring&lt;/h2&gt;
+&lt;p&gt;1年間でなんとなく乗り換える場所の定期イベントが終わった&lt;/p&gt;</content><category term="blog"/></entry><entry><title>new year 2022</title><link href="https://blog.datemega.net/new-year-2022.html" rel="alternate"/><published>2022-01-22T20:10:00+09:00</published><updated>2022-01-22T20:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2022-01-22:/new-year-2022.html</id><content type="html">&lt;h2&gt;new year 2022&lt;/h2&gt;
 &lt;p&gt;おめでとうございます。&lt;br&gt;
 なんとなくそれだけは伝えておいた方が良い気がしました。&lt;br&gt;
-2022もそこそこにがんばっていきましょう。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>nice meat</title><link href="https://blog.datemega.net/nice-meat.html" rel="alternate"></link><published>2021-11-29T21:10:00+09:00</published><updated>2021-11-29T21:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-11-29:/nice-meat.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;nice meat&lt;/h2&gt;
+2022もそこそこにがんばっていきましょう。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>nice meat</title><link href="https://blog.datemega.net/nice-meat.html" rel="alternate"/><published>2021-11-29T21:10:00+09:00</published><updated>2021-11-29T21:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-11-29:/nice-meat.html</id><summary type="html"/><content type="html">&lt;h2&gt;nice meat&lt;/h2&gt;
 &lt;p&gt;年末が近づいている。なんか忙しい師走。&lt;br&gt;
 秋あったっけ？寒い。&lt;br&gt;
 すごくのんびりギターを弾いたりサッカーを見たりして週末をすごしていたら&lt;br&gt;
@@ -133,7 +136,7 @@
 &lt;li&gt;散歩と記録&lt;/li&gt;
 &lt;li&gt;お金にまつわる話のなにか&lt;/li&gt;
 &lt;li&gt;ギターはオルタードスケールを何とかぶち込む練習&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>once per month</title><link href="https://blog.datemega.net/once-per-month.html" rel="alternate"></link><published>2021-10-24T23:08:00+09:00</published><updated>2021-10-24T23:08:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-10-24:/once-per-month.html</id><summary type="html">&lt;p&gt;once per month&lt;/p&gt;</summary><content type="html">&lt;h2&gt;once per month&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>once per month</title><link href="https://blog.datemega.net/once-per-month.html" rel="alternate"/><published>2021-10-24T23:08:00+09:00</published><updated>2021-10-24T23:08:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-10-24:/once-per-month.html</id><summary type="html">&lt;p&gt;once per month&lt;/p&gt;</summary><content type="html">&lt;h2&gt;once per month&lt;/h2&gt;
 &lt;p&gt;お待たせいたしました。お待たせしすぎたかもしれません。&lt;br&gt;
 誰もお待ちしていないかもしれません。&lt;br&gt;
 眠い9月10月を何とか過ごそうとしてます。今年1年何もやらないまま&lt;br&gt;
@@ -147,7 +150,7 @@
 &lt;li&gt;特に進展は無し&lt;/li&gt;
 &lt;li&gt;種まきはそこそこ&lt;/li&gt;
 &lt;li&gt;フロンターレがそろそろ優勝。ホーム戦にちょこちょこと顔出しして応援。がんばれ&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>september rain</title><link href="https://blog.datemega.net/september-rain.html" rel="alternate"></link><published>2021-09-27T20:28:00+09:00</published><updated>2021-09-27T20:28:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-09-27:/september-rain.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;september rain&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>september rain</title><link href="https://blog.datemega.net/september-rain.html" rel="alternate"/><published>2021-09-27T20:28:00+09:00</published><updated>2021-09-27T20:28:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-09-27:/september-rain.html</id><summary type="html"/><content type="html">&lt;h2&gt;september rain&lt;/h2&gt;
 &lt;p&gt;ワクワクチンチンまでもうすこし。&lt;br&gt;
 なんかフラフラ過ごした9月。&lt;br&gt;
 携帯食料を買い込み、それをちびちびと消費した。&lt;br&gt;
@@ -157,7 +160,7 @@
 &lt;ul&gt;
 &lt;li&gt;サッカーは面白くなってきた。Jリーグ後半戦と海外リーグ開始。忙しい&lt;/li&gt;
 &lt;li&gt;あとはyoutube、podcast消費する日々。AfterShokz生活は続く&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>hatch gotta you</title><link href="https://blog.datemega.net/hatch-gotta-you.html" rel="alternate"></link><published>2021-08-22T20:16:00+09:00</published><updated>2021-08-22T20:16:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-08-22:/hatch-gotta-you.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;hatch gotta you&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>hatch gotta you</title><link href="https://blog.datemega.net/hatch-gotta-you.html" rel="alternate"/><published>2021-08-22T20:16:00+09:00</published><updated>2021-08-22T20:16:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-08-22:/hatch-gotta-you.html</id><summary type="html"/><content type="html">&lt;h2&gt;hatch gotta you&lt;/h2&gt;
 &lt;p&gt;更新忘れてた.&lt;br&gt;
 サッカーを見たり、ボートを見たり、F1をみたりしていた。&lt;br&gt;
 なんとか元気でやってるけど、エアコンが壊れたら即お終いな気もする。&lt;/p&gt;
@@ -173,7 +176,7 @@
 &lt;li&gt;サッカー、ボート、F1はそこそこ応援。川崎がんばれ耐えてくれ&lt;/li&gt;
 &lt;li&gt;種まきは今は低調。&lt;/li&gt;
 &lt;li&gt;技術の知識更新に時間を割く&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>ACL has comin</title><link href="https://blog.datemega.net/acl-has-comin.html" rel="alternate"></link><published>2021-06-27T00:29:00+09:00</published><updated>2021-06-27T00:29:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-06-27:/acl-has-comin.html</id><summary type="html">&lt;p&gt;フロンターレ&lt;/p&gt;</summary><content type="html">&lt;h2&gt;ACL has comin&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>ACL has comin</title><link href="https://blog.datemega.net/acl-has-comin.html" rel="alternate"/><published>2021-06-27T00:29:00+09:00</published><updated>2021-06-27T00:29:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-06-27:/acl-has-comin.html</id><summary type="html">&lt;p&gt;フロンターレ&lt;/p&gt;</summary><content type="html">&lt;h2&gt;ACL has comin&lt;/h2&gt;
 &lt;p&gt;フロンターレのACLへの挑戦が始まる。見届ける&lt;br&gt;
 緊急事態とか蔓延防止とかピークシフトとかよくわからない暮らしをしている。&lt;br&gt;
 今更ながら、逆転裁判5とか大逆転裁判をやろうとしている。&lt;br&gt;
@@ -186,7 +189,7 @@ HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少し�
 &lt;li&gt;サッカーを見る&lt;/li&gt;
 &lt;li&gt;F1を見る&lt;/li&gt;
 &lt;li&gt;種まきはそこそこ&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>for your information</title><link href="https://blog.datemega.net/for-your-information.html" rel="alternate"></link><published>2021-04-18T16:35:00+09:00</published><updated>2021-04-18T16:35:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-04-18:/for-your-information.html</id><summary type="html">&lt;p&gt;スポーツの春&lt;/p&gt;</summary><content type="html">&lt;h2&gt;スポーツの春&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>for your information</title><link href="https://blog.datemega.net/for-your-information.html" rel="alternate"/><published>2021-04-18T16:35:00+09:00</published><updated>2021-04-18T16:35:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-04-18:/for-your-information.html</id><summary type="html">&lt;p&gt;スポーツの春&lt;/p&gt;</summary><content type="html">&lt;h2&gt;スポーツの春&lt;/h2&gt;
 &lt;p&gt;なんかとても忙しい。J見て、Mみて、F1みて、ボートみて&lt;br&gt;
 見るだけで自分の体を鍛える方向には向かってないのが悲しいね&lt;/p&gt;
 &lt;p&gt;楽しいことばかりでもないので、切羽詰まったりやけ食いしたりしながら&lt;br&gt;
@@ -197,7 +200,7 @@ HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少し�
 &lt;li&gt;申請類、いったん終わった&lt;/li&gt;
 &lt;li&gt;jazz ほど遠いけどギターは弾いてる&lt;/li&gt;
 &lt;li&gt;種まきは今月はペンディング&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>march is the 15th month of 2020</title><link href="https://blog.datemega.net/march-is-the-15th-month-of-2020.html" rel="alternate"></link><published>2021-03-02T20:57:00+09:00</published><updated>2021-03-02T20:57:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-03-02:/march-is-the-15th-month-of-2020.html</id><summary type="html">&lt;p&gt;ピリピリして疲れながらラジオ体操&lt;/p&gt;</summary><content type="html">&lt;h2&gt;march is the 15th month of 2020&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>march is the 15th month of 2020</title><link href="https://blog.datemega.net/march-is-the-15th-month-of-2020.html" rel="alternate"/><published>2021-03-02T20:57:00+09:00</published><updated>2021-03-02T20:57:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-03-02:/march-is-the-15th-month-of-2020.html</id><summary type="html">&lt;p&gt;ピリピリして疲れながらラジオ体操&lt;/p&gt;</summary><content type="html">&lt;h2&gt;march is the 15th month of 2020&lt;/h2&gt;
 &lt;p&gt;ピリピリして疲れながらラジオ体操&lt;/p&gt;
 &lt;h2&gt;毎日&lt;/h2&gt;
 &lt;p&gt;最近は、家で仕事したり仕事の振りしたりしている。&lt;br&gt;
@@ -212,7 +215,7 @@ HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少し�
 &lt;li&gt;Jリーグは今季が始まりました。チケット争奪の中見に行けるだろうか&lt;/li&gt;
 &lt;li&gt;ボートは今年入ってだいぶやられてしまった&lt;/li&gt;
 &lt;li&gt;Jazzの道は長く険しい。&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>transferring from old</title><link href="https://blog.datemega.net/transferring-from-old.html" rel="alternate"></link><published>2021-02-07T03:47:00+09:00</published><updated>2021-02-07T03:47:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-02-07:/transferring-from-old.html</id><summary type="html">&lt;p&gt;乗り換え&lt;/p&gt;</summary><content type="html">&lt;h2&gt;transferring from old&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>transferring from old</title><link href="https://blog.datemega.net/transferring-from-old.html" rel="alternate"/><published>2021-02-07T03:47:00+09:00</published><updated>2021-02-07T03:47:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-02-07:/transferring-from-old.html</id><summary type="html">&lt;p&gt;乗り換え&lt;/p&gt;</summary><content type="html">&lt;h2&gt;transferring from old&lt;/h2&gt;
 &lt;p&gt;ドメインの期限がキレそうという通知が来たり、それを延長したりしました。&lt;br&gt;
 あと、使っていたVPS（というかAWS)の無料期間が過ぎたので乗せ換えした。&lt;br&gt;
 うちで踊ろうを歌いながら寝たり寝なかったり。&lt;br&gt;
@@ -223,7 +226,7 @@ HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少し�
 &lt;li&gt;Mリーグがついに佳境に入ってる。&lt;/li&gt;
 &lt;li&gt;眠りが浅いときがある。やる気が出るのが午前3時くらいだったりする&lt;/li&gt;
 &lt;li&gt;種まき種まき&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>A new year</title><link href="https://blog.datemega.net/a-new-year.html" rel="alternate"></link><published>2021-01-13T10:09:00+09:00</published><updated>2021-01-13T10:09:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-01-13:/a-new-year.html</id><summary type="html">&lt;p&gt;13th month&lt;/p&gt;</summary><content type="html">&lt;h2&gt;A new year&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>A new year</title><link href="https://blog.datemega.net/a-new-year.html" rel="alternate"/><published>2021-01-13T10:09:00+09:00</published><updated>2021-01-13T10:09:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2021-01-13:/a-new-year.html</id><summary type="html">&lt;p&gt;13th month&lt;/p&gt;</summary><content type="html">&lt;h2&gt;A new year&lt;/h2&gt;
 &lt;p&gt;2021年が始まって2週近くたちましたが。まだまだ全然実感がない。&lt;br&gt;
 なんとなく餅を食べて、なんとなく人ごみを避けて初詣行って、&lt;br&gt;
 なんとなく在宅でPCいじりながらなんとなくテレビ見たりしてる。  &lt;/p&gt;
@@ -235,7 +238,7 @@ HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少し�
 &lt;li&gt;しごと&lt;/li&gt;
 &lt;li&gt;種まき&lt;/li&gt;
 &lt;li&gt;ボートとJリーグ&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>she was</title><link href="https://blog.datemega.net/she-was.html" rel="alternate"></link><published>2020-12-08T09:48:00+09:00</published><updated>2020-12-08T09:48:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-12-08:/she-was.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;she was&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>she was</title><link href="https://blog.datemega.net/she-was.html" rel="alternate"/><published>2020-12-08T09:48:00+09:00</published><updated>2020-12-08T09:48:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-12-08:/she-was.html</id><summary type="html"/><content type="html">&lt;h2&gt;she was&lt;/h2&gt;
 &lt;p&gt;しわす。&lt;/p&gt;
 &lt;p&gt;感染拡大につき、テレワークに戻ってまいりました。実際はあんまり関係ないけど。&lt;br&gt;
 1年で乗り換えないと有料になる環境があって、これを乗り継いで細々やっている何かがあるんだけど&lt;br&gt;
@@ -243,7 +246,7 @@ HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少し�
 &lt;p&gt;宝くじを2枚買った。心の効率を考えると1000枚買っても1枚買っても大差がないので、売り場が気になったときにバラで1，2枚だけ買う。
 これで僕もおくまんちょうじゃだ。  &lt;/p&gt;
 &lt;p&gt;久々に平和島行ったりした。煮込みライス食べて2レースくらい遊んで帰ってきた。寒いけど間近で見るのは良い  &lt;/p&gt;
-&lt;p&gt;ほかは、そこそこ。ちょっと暴食気味。レコーディングダイエットはぼちぼち。腹筋が究極的に足りない。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>covid make me hardly working</title><link href="https://blog.datemega.net/covid-make-me-hardly-working.html" rel="alternate"></link><published>2020-11-19T22:54:00+09:00</published><updated>2020-11-19T22:54:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-11-19:/covid-make-me-hardly-working.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;covid make me hardly working&lt;/h2&gt;
+&lt;p&gt;ほかは、そこそこ。ちょっと暴食気味。レコーディングダイエットはぼちぼち。腹筋が究極的に足りない。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>covid make me hardly working</title><link href="https://blog.datemega.net/covid-make-me-hardly-working.html" rel="alternate"/><published>2020-11-19T22:54:00+09:00</published><updated>2020-11-19T22:54:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-11-19:/covid-make-me-hardly-working.html</id><summary type="html"/><content type="html">&lt;h2&gt;covid make me hardly working&lt;/h2&gt;
 &lt;p&gt;増えてきた感染者。周囲でもそろそろ報告がベーコン数2くらいでちらほらと。&lt;br&gt;
 また超緊縮ムードに入るかな。何しようかな。こたつでも買おうかな  &lt;/p&gt;
 &lt;p&gt;Mリーグが熱い。今年も熱い。毎晩もしくは週末にざっと見。あとはドリブンズ控室ちらちら  &lt;/p&gt;
@@ -256,7 +259,7 @@ HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少し�
 &lt;li&gt;レコーディングダイエットと言いつつ、好き勝手に食っているものを記録しているだけにすぎなくなってきた&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;note&lt;/h2&gt;
-&lt;p&gt;風邪とか、そういういろいろな何かに気を付けつつ過ごす。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>samui</title><link href="https://blog.datemega.net/samui.html" rel="alternate"></link><published>2020-10-22T21:42:00+09:00</published><updated>2020-10-22T23:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-22:/samui.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;samui&lt;/h2&gt;
+&lt;p&gt;風邪とか、そういういろいろな何かに気を付けつつ過ごす。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>samui</title><link href="https://blog.datemega.net/samui.html" rel="alternate"/><published>2020-10-22T21:42:00+09:00</published><updated>2020-10-22T23:10:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-22:/samui.html</id><summary type="html"/><content type="html">&lt;h2&gt;samui&lt;/h2&gt;
 &lt;p&gt;めっきり急に寒くなってきた。&lt;br&gt;
 星系出雲の兵站読み始めた。やっと世界に入りこみ始めた。SFは読み始めから没頭までの助走期間が長い&lt;br&gt;
 Mリーグ、ライトユーザなので、その日の放送が終わったあたりから2倍速で流し見してる&lt;br&gt;
@@ -275,7 +278,7 @@ cloud9の環境変数でPORT8080が設定されている。 pelicanでプレビ�
 もう一度 Preview Running Application を押すと8080を開こうとする&lt;br&gt;
 pelican serveを落としても 80で開こうとしているPreview はリロードできるし、&lt;br&gt;
 どうやらインターネット越しにブログ本体にアクセスしているように見える&lt;br&gt;
-何かちゃんと調査がいるのかもしれない。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>MJB</title><link href="https://blog.datemega.net/mjb.html" rel="alternate"></link><published>2020-10-11T12:06:00+09:00</published><updated>2020-10-11T12:06:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-11:/mjb.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;MJB&lt;/h2&gt;
+何かちゃんと調査がいるのかもしれない。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>MJB</title><link href="https://blog.datemega.net/mjb.html" rel="alternate"/><published>2020-10-11T12:06:00+09:00</published><updated>2020-10-11T12:06:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-10-11:/mjb.html</id><summary type="html"/><content type="html">&lt;h2&gt;MJB&lt;/h2&gt;
 &lt;p&gt;Mリーグが開幕した。週4で夜の予定が増えたことを喜ぶぶべきかどうか。&lt;br&gt;
 最強戦にナイスガイが出場してて面白驚いた&lt;br&gt;
 Jリーグも佳境というか後半戦になってきた。川崎なかなか強くてうれしい。&lt;br&gt;
@@ -287,7 +290,7 @@ Boartraceも賞金女王の趨勢が決まり始めた。ヴィーナスシリ�
 &lt;li&gt;ペヤングのアップルパイがびっくりするほどまずかった。&lt;/li&gt;
 &lt;li&gt;眠りが浅いときがあり、週末に眠りが深い。&lt;/li&gt;
 &lt;li&gt;歯医者にしばらく通ってることが少しストレスになってきた。&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>If you are in trouble, we should restart</title><link href="https://blog.datemega.net/if-you-are-in-trouble-we-should-restart.html" rel="alternate"></link><published>2020-09-29T22:52:00+09:00</published><updated>2020-09-29T22:52:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-09-29:/if-you-are-in-trouble-we-should-restart.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;今日言われて気づいたこと&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>If you are in trouble, we should restart</title><link href="https://blog.datemega.net/if-you-are-in-trouble-we-should-restart.html" rel="alternate"/><published>2020-09-29T22:52:00+09:00</published><updated>2020-09-29T22:52:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-09-29:/if-you-are-in-trouble-we-should-restart.html</id><summary type="html"/><content type="html">&lt;h2&gt;今日言われて気づいたこと&lt;/h2&gt;
 &lt;p&gt;肉の日だった。とんかつを食べた。  &lt;/p&gt;
 &lt;h2&gt;戦うべき相手&lt;/h2&gt;
 &lt;p&gt;物忘れと闘う週末。それは歯医者の予約。&lt;br&gt;
@@ -302,7 +305,7 @@ Boartraceも賞金女王の趨勢が決まり始めた。ヴィーナスシリ�
 &lt;li&gt;Mリーグが始まってしまう&lt;/li&gt;
 &lt;li&gt;糧を得るために植える種&lt;/li&gt;
 &lt;li&gt;トイレットペーパーは買った(done)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>If 6 was 9</title><link href="https://blog.datemega.net/if-6-was-9.html" rel="alternate"></link><published>2020-09-03T01:30:00+09:00</published><updated>2020-09-03T01:30:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-09-03:/if-6-was-9.html</id><summary type="html">&lt;p&gt;If the mountains fell in the sea. Let itbe, It ain't me&lt;/p&gt;</summary><content type="html">&lt;h2&gt;If 6 was 9&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>If 6 was 9</title><link href="https://blog.datemega.net/if-6-was-9.html" rel="alternate"/><published>2020-09-03T01:30:00+09:00</published><updated>2020-09-03T01:30:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-09-03:/if-6-was-9.html</id><summary type="html">&lt;p&gt;If the mountains fell in the sea. Let itbe, It ain't me&lt;/p&gt;</summary><content type="html">&lt;h2&gt;If 6 was 9&lt;/h2&gt;
 &lt;p&gt;If the mountains fell in the sea. Let it be, It ain't me&lt;/p&gt;
 &lt;h2&gt;9月が来たんだよ。&lt;/h2&gt;
 &lt;p&gt;もし6月が9月だったとしたら、世界はこのくそ暑い時期を何度も何度も繰り返さないといけない&lt;br&gt;
@@ -315,11 +318,11 @@ Boartraceも賞金女王の趨勢が決まり始めた。ヴィーナスシリ�
 &lt;li&gt;暑いうちに次のなにかか、資産が溜まる施策に乗せる&lt;/li&gt;
 &lt;li&gt;あとはいらないものを常に売る&lt;/li&gt;
 &lt;li&gt;川崎フロンターレがめちゃくちゃ強いので、それを見に行く&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>Blue Screen</title><link href="https://blog.datemega.net/blue-screen.html" rel="alternate"></link><published>2020-08-11T15:39:00+09:00</published><updated>2020-08-11T15:39:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-08-11:/blue-screen.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;Blue Screen&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>Blue Screen</title><link href="https://blog.datemega.net/blue-screen.html" rel="alternate"/><published>2020-08-11T15:39:00+09:00</published><updated>2020-08-11T15:39:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-08-11:/blue-screen.html</id><summary type="html"/><content type="html">&lt;h2&gt;Blue Screen&lt;/h2&gt;
 &lt;p&gt;空があおい。&lt;br&gt;
 里崎ちゃんねると、東海オンエアを垂れ流しにして暮らしている。&lt;br&gt;
 サッカー川崎見に行った。J1再開から連勝継続で強すぎる。うれしい&lt;br&gt;
-お盆はひっそり、todoはたっぷり&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>At sui</title><link href="https://blog.datemega.net/at-sui.html" rel="alternate"></link><published>2020-08-05T10:48:00+09:00</published><updated>2020-08-05T10:48:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-08-05:/at-sui.html</id><summary type="html">&lt;p&gt;Atsui&lt;/p&gt;</summary><content type="html">&lt;h2&gt;At sui&lt;/h2&gt;
+お盆はひっそり、todoはたっぷり&lt;/p&gt;</content><category term="blog"/></entry><entry><title>At sui</title><link href="https://blog.datemega.net/at-sui.html" rel="alternate"/><published>2020-08-05T10:48:00+09:00</published><updated>2020-08-05T10:48:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-08-05:/at-sui.html</id><summary type="html">&lt;p&gt;Atsui&lt;/p&gt;</summary><content type="html">&lt;h2&gt;At sui&lt;/h2&gt;
 &lt;p&gt;だいぶ暑くなってきた。梅雨が明けた。&lt;br&gt;
 川崎が強いのでJ1観戦が楽しい。&lt;br&gt;
 シーズンチケット優遇なので、売り出し直後にサイトに飛び込まないとまだチケットが取れない。&lt;br&gt;
@@ -332,7 +335,7 @@ Mリーグ2020も、ちょぼちょぼと情報見てる。&lt;/p&gt;
 &lt;li&gt;SoftEtherVPN のライセンスが企業用の試用版だったので修正した(Done)&lt;/li&gt;
 &lt;li&gt;AWSちゃんとやる&lt;/li&gt;
 &lt;li&gt;マイクとかミキサー類が無事届きますように&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>Go To 2nd wave</title><link href="https://blog.datemega.net/go-to-2nd-wave.html" rel="alternate"></link><published>2020-07-20T12:54:00+09:00</published><updated>2020-07-20T12:54:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-07-20:/go-to-2nd-wave.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;Go To 2nd wave&lt;/h2&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>Go To 2nd wave</title><link href="https://blog.datemega.net/go-to-2nd-wave.html" rel="alternate"/><published>2020-07-20T12:54:00+09:00</published><updated>2020-07-20T12:54:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-07-20:/go-to-2nd-wave.html</id><summary type="html"/><content type="html">&lt;h2&gt;Go To 2nd wave&lt;/h2&gt;
 &lt;p&gt;夏が来ている感じがする。&lt;br&gt;
 梅雨の長雨ゲリラ雨の後、30分で洗濯物が乾くようなカンカン照り、そしてじめっとした湿度&lt;br&gt;
 ついにマスクをしたままの夏がやってきてしまった。&lt;/p&gt;
@@ -348,7 +351,7 @@ Mリーグ2020も、ちょぼちょぼと情報見てる。&lt;/p&gt;
 週末に免許センター行くのめんどくさくて、テレワークの昼休みの隙に近所の警察署に行って30分の講習受けてきました。&lt;br&gt;
 証明写真って、なんでなんなに目つきも人相も犯罪者っぽくなるんでしょうね。&lt;br&gt;
 受け取りに行くのも、少し先だけど近所なので楽。免許期限は切れましたが、昨今の事情で期限延長中&lt;/p&gt;
-&lt;p&gt;ほんじゃーね&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>M league again</title><link href="https://blog.datemega.net/m-league-again.html" rel="alternate"></link><published>2020-06-19T18:17:00+09:00</published><updated>2020-06-19T18:17:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-06-19:/m-league-again.html</id><summary type="html">&lt;p&gt;麻雀Mリーグが帰ってきた&lt;/p&gt;</summary><content type="html">&lt;h2&gt;M league again&lt;/h2&gt;
+&lt;p&gt;ほんじゃーね&lt;/p&gt;</content><category term="blog"/></entry><entry><title>M league again</title><link href="https://blog.datemega.net/m-league-again.html" rel="alternate"/><published>2020-06-19T18:17:00+09:00</published><updated>2020-06-19T18:17:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-06-19:/m-league-again.html</id><summary type="html">&lt;p&gt;麻雀Mリーグが帰ってきた&lt;/p&gt;</summary><content type="html">&lt;h2&gt;M league again&lt;/h2&gt;
 &lt;p&gt;麻雀Mリーグが返ってきた&lt;br&gt;
 セミファイナル後、コロナ影響で開催中断されていたファイナルシーズンがついに今週始まった。&lt;br&gt;
 あー楽しい。やっとなんかいろんなエンタメが少しずつ再開されてきた。さて続くのかは不明だが。  &lt;/p&gt;
@@ -361,12 +364,12 @@ Mリーグ2020も、ちょぼちょぼと情報見てる。&lt;/p&gt;
 &lt;li&gt;厚揚げにワサビとポン酢で食べるのが主食となりつつある&lt;/li&gt;
 &lt;li&gt;久々につなごうとしたVPNがつながらないので調査しようとしたら壱日が終わる&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;大体壱日が終わることが多い。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>humid days has come</title><link href="https://blog.datemega.net/humid-days-has-come.html" rel="alternate"></link><published>2020-06-04T14:49:00+09:00</published><updated>2020-06-04T14:49:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-06-04:/humid-days-has-come.html</id><summary type="html">&lt;p&gt;ついにきてしまった&lt;/p&gt;</summary><content type="html">&lt;h2&gt;６月４日に蒸しあつい。虫について&lt;/h2&gt;
+&lt;p&gt;大体壱日が終わることが多い。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>humid days has come</title><link href="https://blog.datemega.net/humid-days-has-come.html" rel="alternate"/><published>2020-06-04T14:49:00+09:00</published><updated>2020-06-04T14:49:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-06-04:/humid-days-has-come.html</id><summary type="html">&lt;p&gt;ついにきてしまった&lt;/p&gt;</summary><content type="html">&lt;h2&gt;６月４日に蒸しあつい。虫について&lt;/h2&gt;
 &lt;p&gt;ついに来てしまった。&lt;br&gt;
 もうネクタイなんて閉められない。気候的にもライフスタイル的にも&lt;br&gt;
 虫歯が痛くて歯医者に行ったら、あれもこれもどれも虫歯と言われてへこむ&lt;br&gt;
 ドルツを買って歯周病を予防する&lt;br&gt;
-緊急口腔事態宣言は、しばらく続くことが予想される。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>What's day is today</title><link href="https://blog.datemega.net/whats-day-is-today.html" rel="alternate"></link><published>2020-05-15T16:38:00+09:00</published><updated>2020-05-15T16:38:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-05-15:/whats-day-is-today.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;今日何日やねん&lt;/h2&gt;
+緊急口腔事態宣言は、しばらく続くことが予想される。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>What's day is today</title><link href="https://blog.datemega.net/whats-day-is-today.html" rel="alternate"/><published>2020-05-15T16:38:00+09:00</published><updated>2020-05-15T16:38:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-05-15:/whats-day-is-today.html</id><summary type="html"/><content type="html">&lt;h2&gt;今日何日やねん&lt;/h2&gt;
 &lt;p&gt;今日は金曜日。明日は土曜日。&lt;br&gt;
 生活に異変は特にありません。&lt;br&gt;
 毎朝検温しています。せき込むことはたまにありますが、熱はかなり平熱です。&lt;br&gt;
@@ -374,10 +377,10 @@ Mリーグ2020も、ちょぼちょぼと情報見てる。&lt;/p&gt;
 明日は缶ビンの収集日。明らかにビールの空き缶が増えている、収集所&lt;/p&gt;
 &lt;p&gt;寝落ちすると、youtubeや動画が連続再生されて、翌日の再開箇所が分からなくなってしまう&lt;br&gt;
 または、よくわからないレコメンドが増えます。&lt;/p&gt;
-&lt;p&gt;週末ボートレース見なくちゃ。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>olden week</title><link href="https://blog.datemega.net/olden-week.html" rel="alternate"></link><published>2020-05-05T13:22:00+09:00</published><updated>2020-05-05T13:22:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-05-05:/olden-week.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;olden week&lt;/h2&gt;
+&lt;p&gt;週末ボートレース見なくちゃ。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>olden week</title><link href="https://blog.datemega.net/olden-week.html" rel="alternate"/><published>2020-05-05T13:22:00+09:00</published><updated>2020-05-05T13:22:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-05-05:/olden-week.html</id><summary type="html"/><content type="html">&lt;h2&gt;olden week&lt;/h2&gt;
 &lt;p&gt;ステイホームウィーク。&lt;br&gt;
 動画見たり、ギター弾いたり、夜中にコンビニ出たり。&lt;br&gt;
-あれ、この生活なんかしっくりくるぞ。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>no concentration</title><link href="https://blog.datemega.net/no-concentration.html" rel="alternate"></link><published>2020-04-27T15:40:00+09:00</published><updated>2020-04-27T15:40:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-27:/no-concentration.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;必要なもの&lt;/h2&gt;
+あれ、この生活なんかしっくりくるぞ。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>no concentration</title><link href="https://blog.datemega.net/no-concentration.html" rel="alternate"/><published>2020-04-27T15:40:00+09:00</published><updated>2020-04-27T15:40:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-27:/no-concentration.html</id><summary type="html"/><content type="html">&lt;h2&gt;必要なもの&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;集中力&lt;/li&gt;
 &lt;li&gt;明確なTODO&lt;/li&gt;
@@ -385,10 +388,10 @@ Mリーグ2020も、ちょぼちょぼと情報見てる。&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2&gt;今日のニート&lt;/h2&gt;
 &lt;p&gt;寝すぎる。二度寝が怖い。&lt;br&gt;
-ゴールデンウィークが到来するが、何がゴールデンなのかよくわからないね&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Take a break</title><link href="https://blog.datemega.net/take-a-break.html" rel="alternate"></link><published>2020-04-23T16:48:00+09:00</published><updated>2020-04-23T16:48:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-23:/take-a-break.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;TODO&lt;/h2&gt;
+ゴールデンウィークが到来するが、何がゴールデンなのかよくわからないね&lt;/p&gt;</content><category term="blog"/></entry><entry><title>Take a break</title><link href="https://blog.datemega.net/take-a-break.html" rel="alternate"/><published>2020-04-23T16:48:00+09:00</published><updated>2020-04-23T16:48:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-23:/take-a-break.html</id><summary type="html"/><content type="html">&lt;h2&gt;TODO&lt;/h2&gt;
 &lt;p&gt;記事作るのはだいぶ楽になった。 つぶやく &amp;lt; ブックマークでぼやく &amp;lt; 記事作る &amp;lt; サイトいじる このくらいの粒度&lt;br&gt;
 問題は、見づらいこと。記事の境目が分からない。やっぱりテーマもいじらないとダメっぽい&lt;br&gt;
-描画もきれいで、テンプレートいじるのは難しくない。Python+Pelican+Jinja2に感謝、感謝やでえ&lt;/p&gt;</content><category term="blog"></category><category term="todo"></category></entry><entry><title>accessible</title><link href="https://blog.datemega.net/accessible.html" rel="alternate"></link><published>2020-04-23T13:58:00+09:00</published><updated>2020-04-23T13:58:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-23:/accessible.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;今日のEat&lt;/h2&gt;
+描画もきれいで、テンプレートいじるのは難しくない。Python+Pelican+Jinja2に感謝、感謝やでえ&lt;/p&gt;</content><category term="blog"/><category term="todo"/></entry><entry><title>accessible</title><link href="https://blog.datemega.net/accessible.html" rel="alternate"/><published>2020-04-23T13:58:00+09:00</published><updated>2020-04-23T13:58:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-23:/accessible.html</id><summary type="html"/><content type="html">&lt;h2&gt;今日のEat&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;おにぎり&lt;/li&gt;
 &lt;li&gt;ウィダー的なゼリー&lt;/li&gt;
@@ -426,7 +429,7 @@ VPNサーバ本体への通信が上手く通らない。&lt;br&gt;
 &lt;li&gt;マクド馬鹿食いは、翌日以降に禍根を残すことを戒める。&lt;/li&gt;
 &lt;li&gt;マックと、マクドナルドを短絡的に連想することの危険性。  &lt;/li&gt;
 &lt;li&gt;プリン味のシェイクは、もう何を飲んでるのかわからなくてバグる。&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>Only on</title><link href="https://blog.datemega.net/only-on.html" rel="alternate"></link><published>2020-04-20T11:53:00+09:00</published><updated>2020-04-20T11:53:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-20:/only-on.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>Only on</title><link href="https://blog.datemega.net/only-on.html" rel="alternate"/><published>2020-04-20T11:53:00+09:00</published><updated>2020-04-20T11:53:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-20:/only-on.html</id><summary type="html"/><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
 &lt;p&gt;オン飲みやった。onのみ-&amp;gt;only on&lt;br&gt;
 出入り自由で、飲み物も自由なので結構気楽でよさそう。
 寝落ちが怖いけど、なんか悪用しなければある程度適当に開催できて暇つぶしになった&lt;br&gt;
@@ -437,18 +440,24 @@ VPNサーバ本体への通信が上手く通らない。&lt;br&gt;
 &lt;li&gt;解析器を作る&lt;/li&gt;
 &lt;li&gt;収集器を作る。クローリングの周期とかはもうちょっと詰めるけど&lt;/li&gt;
 &lt;li&gt;出力の自動化ももうちょっと整形してデバッグする&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category></entry><entry><title>Nem</title><link href="https://blog.datemega.net/nem.html" rel="alternate"></link><published>2020-04-16T14:36:00+09:00</published><updated>2020-04-16T14:36:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-16:/nem.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;今日のこんだて&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="blog"/></entry><entry><title>Nem</title><link href="https://blog.datemega.net/nem.html" rel="alternate"/><published>2020-04-16T14:36:00+09:00</published><updated>2020-04-16T14:36:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-16:/nem.html</id><summary type="html"/><content type="html">&lt;h1&gt;今日のこんだて&lt;/h1&gt;
 &lt;p&gt;今日は麻婆豆腐。豆腐が売り切れたりしたら死ぬ可能性がある。&lt;br&gt;
 ASMR(Autonomous Sensory Meridian Response) という言葉は、
 そろそろある程度一般化しただろうか&lt;br&gt;
 ちょっと、ほんのちょっとだけ、咳が続いている。熱はない。もちろん病院には行っていない&lt;br&gt;
 眠い。眠れない日がある。夜更かししていて朝に弱まっている間隔が強くある&lt;br&gt;
-かゆ…うま…(もうシャレになっていない)&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Don't think, don't feel.</title><link href="https://blog.datemega.net/dont-think-dont-feel.html" rel="alternate"></link><published>2020-04-13T10:02:00+09:00</published><updated>2020-04-13T10:02:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-13:/dont-think-dont-feel.html</id><summary type="html"></summary><content type="html">&lt;h2&gt;今日のニート&lt;/h2&gt;
+かゆ…うま…(もうシャレになっていない)&lt;/p&gt;</content><category term="blog"/></entry><entry><title>Don't think, don't feel.</title><link href="https://blog.datemega.net/dont-think-dont-feel.html" rel="alternate"/><published>2020-04-13T10:02:00+09:00</published><updated>2020-04-13T10:02:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-13:/dont-think-dont-feel.html</id><summary type="html"/><content type="html">&lt;h2&gt;今日のニート&lt;/h2&gt;
 &lt;p&gt;ID：INVADEDを一気見した。めちゃくちゃ面白かった。&lt;br&gt;
 設定が分かるまでちょっと時間かかったけど、飽きもせず、うちで踊ろうしながら見終わった&lt;br&gt;
 面白かったアニメ評も書きたい。雑記をもっと出力したい。&lt;br&gt;
 考えるのは後でいい。感じるセンスも今は閉じていい。&lt;br&gt;
-何でもは知らないよ。知ってることだけ。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>FF7R</title><link href="https://blog.datemega.net/ff7r.html" rel="alternate"></link><published>2020-04-10T12:28:00+09:00</published><updated>2020-04-10T12:28:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-10:/ff7r.html</id><content type="html">&lt;h2&gt;今日のニート&lt;/h2&gt;
+何でもは知らないよ。知ってることだけ。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>FF7R</title><link href="https://blog.datemega.net/ff7r.html" rel="alternate"/><published>2020-04-10T12:28:00+09:00</published><updated>2020-04-10T12:28:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-10:/ff7r.html</id><summary type="html">&lt;h2&gt;今日のニート&lt;/h2&gt;
+&lt;h3&gt;FF7リメイク&lt;/h3&gt;
+&lt;p&gt;FF7が世に現れてから23年、初代PSが出てから四半世紀が経っている&lt;br&gt;
+FinalとはEverlastingのことなんだろうか。FF7リメイクの発売日。  &lt;/p&gt;
+&lt;h3&gt;ボート&lt;/h3&gt;
+&lt;p&gt;ボートレースが面白い。峰竜太のYoutubeチャンネル購読しちゃった。&lt;br&gt;
+エンジンデータとか分析のネタとして使え …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;今日のニート&lt;/h2&gt;
 &lt;h3&gt;FF7リメイク&lt;/h3&gt;
 &lt;p&gt;FF7が世に現れてから23年、初代PSが出てから四半世紀が経っている&lt;br&gt;
 FinalとはEverlastingのことなんだろうか。FF7リメイクの発売日。  &lt;/p&gt;
@@ -459,7 +468,7 @@ FinalとはEverlastingのことなんだろうか。FF7リメイクの発売日�
 &lt;p&gt;数年前、十数年前にやっていたくだらないことが、自分の生活の基礎になっている。&lt;br&gt;
 積もり積もった塵の上に楼閣を建てて居座っているだけなのかもしれない。  &lt;/p&gt;
 &lt;h3&gt;うちで踊ろう/星野源&lt;/h3&gt;
-&lt;p&gt;「うちで踊ろう」が 4-3-6-1の定番進行で好物。4-3-6-1で世界は廻っている。&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>Neet will be neat</title><link href="https://blog.datemega.net/neet-will-be-neat.html" rel="alternate"></link><published>2020-04-08T00:12:00+09:00</published><updated>2020-04-08T11:50:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-08:/neet-will-be-neat.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
+&lt;p&gt;「うちで踊ろう」が 4-3-6-1の定番進行で好物。4-3-6-1で世界は廻っている。&lt;/p&gt;</content><category term="blog"/></entry><entry><title>Neet will be neat</title><link href="https://blog.datemega.net/neet-will-be-neat.html" rel="alternate"/><published>2020-04-08T00:12:00+09:00</published><updated>2020-04-08T11:50:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-08:/neet-will-be-neat.html</id><summary type="html"/><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
 &lt;p&gt;ついに非常事態宣言が出るらしい。そうすると、通常通りの交通網や買い物に外出することができる。&lt;br&gt;
 バイクを動かす前に体を動かす。コロナの時期こそ屋外の運動の好機だ。好機はいつもあなたの目の前にぶら下がってございます。&lt;br&gt;
 LSDはLong Slow Distance. LittleSpringDevelopmentでもあり得る。 目まぐるしく移り変わる令和2年。呪われた元号&lt;br&gt;
@@ -469,7 +478,7 @@ LSDはLong Slow Distance. LittleSpringDevelopmentでもあり得る。 目まぐ
 &lt;li&gt;Aboutページ作った&lt;/li&gt;
 &lt;li&gt;Feedやリンク周りちょっといじった&lt;/li&gt;
 &lt;li&gt;すごい変な時間帯に触ることができるようになった&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category><category term="neet"></category></entry><entry><title>A snail walking</title><link href="https://blog.datemega.net/a-snail-walking.html" rel="alternate"></link><published>2020-04-07T17:25:00+09:00</published><updated>2020-04-07T17:25:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-07:/a-snail-walking.html</id><summary type="html"></summary><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="blog"/><category term="neet"/></entry><entry><title>A snail walking</title><link href="https://blog.datemega.net/a-snail-walking.html" rel="alternate"/><published>2020-04-07T17:25:00+09:00</published><updated>2020-04-07T17:25:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-04-07:/a-snail-walking.html</id><summary type="html"/><content type="html">&lt;h1&gt;今日のニート&lt;/h1&gt;
 &lt;p&gt;blog化した。記事生成周りはまだこれから。&lt;br&gt;
 町は遠い、が道は続いているはずだ。&lt;/p&gt;
 &lt;h2&gt;TODO&lt;/h2&gt;
@@ -477,5 +486,5 @@ LSDはLong Slow Distance. LittleSpringDevelopmentでもあり得る。 目まぐ
 &lt;li&gt;Pelicanで作るサイトについて説明する&lt;/li&gt;
 &lt;li&gt;画像を入れる&lt;/li&gt;
 &lt;li&gt;記事用のテンプレートをもうちょっと手を入れる&lt;/li&gt;
-&lt;/ul&gt;</content><category term="blog"></category><category term="test"></category></entry><entry><title>Welcome to datemega.net</title><link href="https://blog.datemega.net/Welcome.html" rel="alternate"></link><published>2020-03-25T00:00:00+09:00</published><updated>2020-03-25T00:00:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-03-25:/Welcome.html</id><summary type="html">&lt;p&gt;First post by Pelican in datemega.net&lt;/p&gt;</summary><content type="html">&lt;h2&gt;datemega.net&lt;/h2&gt;
-&lt;p&gt;Hello &lt;strong&gt;world!&lt;/strong&gt;&lt;/p&gt;</content><category term="Portal"></category><category term="first"></category><category term="test"></category></entry></feed>
+&lt;/ul&gt;</content><category term="blog"/><category term="test"/></entry><entry><title>Welcome to datemega.net</title><link href="https://blog.datemega.net/Welcome.html" rel="alternate"/><published>2020-03-25T00:00:00+09:00</published><updated>2020-03-25T00:00:00+09:00</updated><author><name>shoh8</name></author><id>tag:blog.datemega.net,2020-03-25:/Welcome.html</id><summary type="html">&lt;p&gt;First post by Pelican in datemega.net&lt;/p&gt;</summary><content type="html">&lt;h2&gt;datemega.net&lt;/h2&gt;
+&lt;p&gt;Hello &lt;strong&gt;world!&lt;/strong&gt;&lt;/p&gt;</content><category term="Portal"/><category term="first"/><category term="test"/></entry></feed>
