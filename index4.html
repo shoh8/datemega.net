@@ -1,93 +1,277 @@
 <!DOCTYPE html>
 <html lang="ja">
-  <head>
-      <title>blog.datemega.net</title>
-      <meta charset="utf-8" />
-      <meta name="generator" content="Pelican" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="https://blog.datemega.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="blog.datemega.net Full Atom Feed" />
-  </head>
 
-  <body>
-      <header>
-          <hgroup><h1><a href="https://blog.datemega.net/">blog.datemega.net</a></h1></hgroup>
-          <nav><ul>
-                <li><a href="https://blog.datemega.net/pages/About.html" >About</a></li>
-                <li><a href="https://blog.datemega.net/category/blog.html" >blog</a></li>
-                <li><a href="https://blog.datemega.net/category/portal.html" >Portal</a></li>
-          </ul></nav>
-      </header>
-      <main>
-        <h2>All articles</h2>
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-        <article>
-            <header> <h2><a href="https://blog.datemega.net/nice-meat.html" rel="bookmark" title="Permalink to nice meat">nice meat</a></h2> </header>
-            <section></section>
-            <footer>
-                <p>Published: <time datetime="2021-11-29T21:10:00+09:00"> Mon 29 November 2021 </time></p>
-                <address>By
-                        <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
-                </address>
-            </footer>
-        </article>
-        <article>
-            <header> <h2><a href="https://blog.datemega.net/once-per-month.html" rel="bookmark" title="Permalink to once per month">once per month</a></h2> </header>
-            <section><p>once per month</p></section>
-            <footer>
-                <p>Published: <time datetime="2021-10-24T23:08:00+09:00"> Sun 24 October 2021 </time></p>
-                <address>By
-                        <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
-                </address>
-            </footer>
-        </article>
-        <article>
-            <header> <h2><a href="https://blog.datemega.net/september-rain.html" rel="bookmark" title="Permalink to september rain">september rain</a></h2> </header>
-            <section></section>
-            <footer>
-                <p>Published: <time datetime="2021-09-27T20:28:00+09:00"> Mon 27 September 2021 </time></p>
-                <address>By
-                        <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
-                </address>
-            </footer>
-        </article>
-        <article>
-            <header> <h2><a href="https://blog.datemega.net/hatch-gotta-you.html" rel="bookmark" title="Permalink to hatch gotta you">hatch gotta you</a></h2> </header>
-            <section></section>
-            <footer>
-                <p>Published: <time datetime="2021-08-22T20:16:00+09:00"> Sun 22 August 2021 </time></p>
-                <address>By
-                        <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
-                </address>
-            </footer>
-        </article>
-        <article>
-            <header> <h2><a href="https://blog.datemega.net/acl-has-comin.html" rel="bookmark" title="Permalink to ACL has comin">ACL has comin</a></h2> </header>
-            <section><p>フロンターレ</p></section>
-            <footer>
-                <p>Published: <time datetime="2021-06-27T00:29:00+09:00"> Sun 27 June 2021 </time></p>
-                <address>By
-                        <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
-                </address>
-            </footer>
-        </article>
+        <title>blog.datemega.net</title>
 
-  <nav>
-    <ul>
-        <li><a href="https://blog.datemega.net/index.html">&Lang;</a></li>
-        <li><a href="https://blog.datemega.net/index3.html">&lang;</a></li>
-      <li>Page 4 / 10</li>
-        <li><a href="https://blog.datemega.net/index5.html">&rang;</a></li>
-        <li><a href="https://blog.datemega.net/index10.html">&Rang;</a></li>
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="blog.datemega.net Full Atom Feed" />
+        <!-- Bootstrap Core CSS -->
+        <link href="https://blog.datemega.net/theme/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link href="https://blog.datemega.net/theme/css/clean-blog.min.css" rel="stylesheet">
+
+        <!-- Code highlight color scheme -->
+            <link href="https://blog.datemega.net/theme/css/code_blocks/darkly.css" rel="stylesheet">
+
+
+        <!-- Custom Fonts -->
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+                <meta property="og:locale" content="">
+		<meta property="og:site_name" content="blog.datemega.net">
+</head>
+
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://blog.datemega.net/">blog.datemega.net</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+
+                            <li><a href="https://blog.datemega.net/pages/About.html">About</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+        <header class="intro-header" style="background-image: url('https://blog.datemega.net/theme/images/home-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="page-heading">
+                        <h1>blog.datemega.net</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-preview">
+            <a href="https://blog.datemega.net/nice-meat.html" rel="bookmark" title="Permalink to nice meat">
+                <h2 class="post-title">
+                    nice meat
+                </h2>
+            </a>
+                <h2>nice meat</h2>
+<p>年末が近づいている。なんか忙しい師走。<br>
+秋あったっけ？寒い。<br>
+すごくのんびりギターを弾いたりサッカーを見たりして週末をすごしていたら<br>
+気づいたら11月が終わってしまっていた。まずい。<br>
+日記をつけることを（blogじゃないけど)再開した。<br>
+飯を記録するだけでなにか変わる気がする</p>
+<h2>TODO</h2>
+<ul>
+<li>年末にむけたなにか</li>
+<li>散歩と記録</li>
+<li>お金にまつわる話のなにか</li>
+<li>ギターはオルタードスケールを何とかぶち込む練習</li>
+</ul>
+            <p class="post-meta">Posted by
+                    <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
+                 on Mon 29 November 2021
+            </p>
+        </div>
+        <div class="post-preview">
+            <a href="https://blog.datemega.net/once-per-month.html" rel="bookmark" title="Permalink to once per month">
+                <h2 class="post-title">
+                    once per month
+                </h2>
+            </a>
+                <h2>once per month</h2>
+<p>お待たせいたしました。お待たせしすぎたかもしれません。<br>
+誰もお待ちしていないかもしれません。<br>
+眠い9月10月を何とか過ごそうとしてます。今年1年何もやらないまま<br>
+なんとなーく残りあと2か月という恐怖。<br>
+サッカーをみて、youtubeを見て、適当にギターを弾いて、スマホをいじっているそんな日々にFxxK
+垂れ流しのSNSをちょっと齧ってみたら、ヤバい人がたくさん偏って存在しているコミュニティに近づいてしまい<br>
+変人のマネをして通りを走ればそれ即ち、 ……
+やばみざわざわ2021</p>
+<h2>TODO</h2>
+<ul>
+<li>特に進展は無し</li>
+<li>種まきはそこそこ</li>
+<li>フロンターレがそろそろ優勝。ホーム戦にちょこちょこと顔出しして応援。がんばれ</li>
+</ul>
+            <p class="post-meta">Posted by
+                    <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
+                 on Sun 24 October 2021
+            </p>
+        </div>
+        <div class="post-preview">
+            <a href="https://blog.datemega.net/september-rain.html" rel="bookmark" title="Permalink to september rain">
+                <h2 class="post-title">
+                    september rain
+                </h2>
+            </a>
+                <h2>september rain</h2>
+<p>ワクワクチンチンまでもうすこし。<br>
+なんかフラフラ過ごした9月。<br>
+携帯食料を買い込み、それをちびちびと消費した。<br>
+体が重い。なわとび<br>
+緊急事態宣言もろもろが終わると、私たちの生活はどうなりますでしょうか。</p>
+<h2>TODO</h2>
+<ul>
+<li>サッカーは面白くなってきた。Jリーグ後半戦と海外リーグ開始。忙しい</li>
+<li>あとはyoutube、podcast消費する日々。AfterShokz生活は続く</li>
+</ul>
+            <p class="post-meta">Posted by
+                    <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
+                 on Mon 27 September 2021
+            </p>
+        </div>
+        <div class="post-preview">
+            <a href="https://blog.datemega.net/hatch-gotta-you.html" rel="bookmark" title="Permalink to hatch gotta you">
+                <h2 class="post-title">
+                    hatch gotta you
+                </h2>
+            </a>
+                <h2>hatch gotta you</h2>
+<p>更新忘れてた.<br>
+サッカーを見たり、ボートを見たり、F1をみたりしていた。<br>
+なんとか元気でやってるけど、エアコンが壊れたら即お終いな気もする。</p>
+<p>モチベーションは低空飛行なのは変化なし。<br>
+ワクワクチンチンの枠はやっと回ってきた。<br>
+解熱剤、携帯食料、熱さまシートとかを買い込んだため、結局ある程度コストかかるね<br>
+もうちょい先だけど。</p>
+<p>夏のセールで、6TBのディスク2本買った。1本取り付けて満足してしまった。<br>
+電源も買ったんだけど、パソコン落とすタイミングが無くて未換装<br>
+骨伝導イヤホンを四六時中つけている生活</p>
+<h2>TODO</h2>
+<ul>
+<li>サッカー、ボート、F1はそこそこ応援。川崎がんばれ耐えてくれ</li>
+<li>種まきは今は低調。</li>
+<li>技術の知識更新に時間を割く</li>
+</ul>
+            <p class="post-meta">Posted by
+                    <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
+                 on Sun 22 August 2021
+            </p>
+        </div>
+        <div class="post-preview">
+            <a href="https://blog.datemega.net/acl-has-comin.html" rel="bookmark" title="Permalink to ACL has comin">
+                <h2 class="post-title">
+                    ACL has comin
+                </h2>
+            </a>
+                <h2>ACL has comin</h2>
+<p>フロンターレのACLへの挑戦が始まる。見届ける<br>
+緊急事態とか蔓延防止とかピークシフトとかよくわからない暮らしをしている。<br>
+今更ながら、逆転裁判5とか大逆転裁判をやろうとしている。<br>
+あとは、サッカーとF1とyoutubeを見て暮らしている。
+蒸し暑い時期が来るのを恐れている</p>
+<p>プライムデーで骨伝導イヤホン買った。あとヨガマット買った。<br>
+HDDを買いたいけど、6TBが1万円を切って入る状態でPCを少しスペックアップ狙って行こうか迷う。Windows11動かすのかな</p>
+<h2>TODO</h2>
+<ul>
+<li>サッカーを見る</li>
+<li>F1を見る</li>
+<li>種まきはそこそこ</li>
+</ul>
+            <p class="post-meta">Posted by
+                    <a href="https://blog.datemega.net/author/shoh8.html">shoh8</a>
+                 on Sun 27 June 2021
+            </p>
+        </div>
+
+    <hr>
+    <!-- Pager -->
+    <ul class="pager">
+        <li class="next">
+                <a href="https://blog.datemega.net/index5.html">Older Posts &rarr;</a>
+                <a href="https://blog.datemega.net/index3.html"> &larr; Newest Posts</a>
+        </li>
     </ul>
-  </nav>
+    Page 4 / 10
+    <hr>
+            </div>
+        </div>
+    </div>
 
-      </main>
-      <footer>
-          <address>
-            Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>,
-            which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
-          </address>
-      </footer>
-  </body>
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                            <li>
+                                <a href="https://twitter.com/shoh8">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/shoh8">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/feeds/all.atom.xml">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                    </ul>
+<p class="copyright text-muted">
+    Blog powered by <a href="http://getpelican.com">Pelican</a>,
+    which takes great advantage of <a href="http://python.org">Python</a>. <br />        &copy;  shoh8
+</p>                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="https://blog.datemega.net/theme/js/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="https://blog.datemega.net/theme/js/bootstrap.min.js"></script>
+
+        <!-- Custom Theme JavaScript -->
+        <script src="https://blog.datemega.net/theme/js/clean-blog.min.js"></script>
+
+</body>
+
 </html>
